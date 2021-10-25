@@ -1,0 +1,24 @@
+body {
+color: darkblue;
+font-family:bolder;
+}
+h1, h2 {
+text-decoration:underline overline line-through;
+}
+p.para1 {
+
+color: blue;
+font-size:25px;
+
+}
+p.para2 {
+
+color:red;
+font-size:25px;
+}
+#para3homepage {
+
+color: purple;
+font-size:25px;
+font-style:italic;
+}
